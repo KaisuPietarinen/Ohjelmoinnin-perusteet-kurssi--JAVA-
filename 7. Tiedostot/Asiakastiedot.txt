@@ -1,0 +1,10 @@
+Data for customer #1
+Tino Torni
+TT@gmail.com
+12345
+
+Data for customer # 2
+Andy Ant
+AA@luukku.com
+56789
+
